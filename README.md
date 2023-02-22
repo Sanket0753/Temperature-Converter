@@ -1,4 +1,4 @@
-## ⭐ Temprature Converter Website Project ⭐
+## ⭐ Temperature Converter Website Project ⭐
 
 This is an project given in **"Internship"** ,built using **HTML5 and CSS3**.
 <br>
