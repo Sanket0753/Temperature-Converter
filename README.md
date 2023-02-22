@@ -23,7 +23,7 @@ This is the [live demo](https://app.flonnect.com/view/video/sanketss753/Flonnect
 
 
 
-https://user-images.githubusercontent.com/119719784/220548289-abe4900c-a242-44df-9814-501c8703cf07.mp4
+![temp](https://user-images.githubusercontent.com/119719784/220550751-8279823d-0b1b-40a2-8bee-b0a293911c2f.png)
 
 
 
